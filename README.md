@@ -33,7 +33,7 @@ The dataset was preprocessed by cropping images based on bounding box annotation
 
 You can access the Kaggle notebook used to train the model, including the dataset and code, from the following link:
 
-[Kaggle Notebook - Helmet Detection](https://www.kaggle.com/code/aadarshagwl/helmet-detection-traffic-system-deep-learning)
+[Kaggle Notebook - Helmet Detection](https://www.kaggle.com/code/aadarshagwl/helmet-detection-traffic-system-deep-learning) or I have provided the source code file above.
 
 ## Results
 
